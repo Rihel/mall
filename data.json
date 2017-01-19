@@ -1,0 +1,20 @@
+{
+  "banner": [
+    {
+      "name": "Daisy Hewitt",
+      "url": "../app/img/01.jpg"
+    },
+    {
+      "name": "Annie Lewis",
+      "url": "../app/img/02.jpg"
+    },
+    {
+      "name": "Buckner Wilkins",
+      "url": "../app/img/03.jpg"
+    },
+    {
+      "name": "Reid Gamble",
+      "url": "../app/img/04.jpg"
+    }
+  ]
+}
